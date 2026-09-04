@@ -1,8 +1,4 @@
-<div align="center">
-
-<img src="assets/banner.svg" alt="Azure Key Vault — Secrets, Keys & Certificate Governance" width="100%">
-
-<br/>
+# Azure Key Vault — Secrets, Keys & Certificate Governance
 
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Access Model](https://img.shields.io/badge/Access-Azure_RBAC-2B9AF3?style=for-the-badge)
